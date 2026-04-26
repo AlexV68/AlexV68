@@ -9,7 +9,7 @@ by performing a structured review of customer records within Salesforce and Sieb
 internal decision-making. These experiences taught me that high-quality software is only as good as the precise data and communication behind it.
 
 As I approach my anticipated graduation in May 2027, I am eager to apply my skills in C++, JavaScript, and web development to a forward-thinking engineering team. I am particularly 
-interested in roles that allow me to combine my technical foundation in algorithms and network analysis—sharpened through hands-on Capture the Flag competitions—with my experience in CRM tools.
+interested in roles that allow me to combine my technical foundation in algorithms and network analysis—sharpened through hands on Capture the Flag competitions with my experience in CRM tools.
 I am a dedicated learner who values intercultural collaboration and technical precision, always looking for new ways to build reliable tools that make life easier for the end-user.
 
 Technical Skills & Tools:
