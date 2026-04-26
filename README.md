@@ -13,7 +13,11 @@ interested in roles that allow me to combine my technical foundation in algorith
 I am a dedicated learner who values intercultural collaboration and technical precision, always looking for new ways to build reliable tools that make life easier for the end-user.
 
 Technical Skills & Tools:
+
 Languages: C, C++, Java, Python, JavaScript, HTML/CSS
+
 Development & Collaboration: Git, GitHub, JavaFX
+
 Data & Systems: BigQuery, SQL, Excel, Salesforce, Agency Matrix, Siebel
+
 Hardware & Security: Arduino, TCP/IP, Wireshark, Kali Linux, Ghidra
