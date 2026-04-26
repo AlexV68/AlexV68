@@ -12,7 +12,7 @@ As I approach my anticipated graduation in May 2027, I am eager to apply my skil
 interested in roles that allow me to combine my technical foundation in algorithms and network analysis—sharpened through hands on Capture the Flag competitions with my experience in CRM tools.
 I am a dedicated learner who values collaboration and technical precision, and am always looking for new ways to build  tools that make life easier for the end-user.
 
-Technical Skills & Tools:
+# Technical Skills & Tools:
 
 Languages: C, C++, Java, Python, JavaScript, HTML/CSS
 
@@ -22,5 +22,5 @@ Data & Systems: BigQuery, SQL, Excel, Salesforce, Agency Matrix, Siebel
 
 Hardware & Security: Arduino, TCP/IP, Wireshark, Kali Linux, Ghidra
 
-Projects:
+# Projects:
 RC Car🚗 and Smart Traffic Light🚦[LINK]: Constructed a 4-wheel networked RC car using an Arduino R4. Colaborated on C++ embedded logic to process TCP/IP movement commands and interact with a simulated smart traffic light in real-time.
