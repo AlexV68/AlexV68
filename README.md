@@ -23,4 +23,4 @@ Data & Systems: BigQuery, SQL, Excel, Salesforce, Agency Matrix, Siebel
 Hardware & Security: Arduino, TCP/IP, Wireshark, Kali Linux, Ghidra
 
 # Projects:
-RC Car🚗 and Smart Traffic Light🚦[LINK]: Constructed a 4-wheel networked RC car using an Arduino R4. Colaborated on C++ embedded logic to process TCP/IP movement commands and interact with a simulated smart traffic light in real-time.
+RC Car🚗 and Smart Traffic Light🚦[[LINK](https://github.com/AlexV68/Car-and-Smart-Traffic-Light)]: Constructed a 4-wheel networked RC car using an Arduino R4. Colaborated on C++ embedded logic to process TCP/IP movement commands and interact with a simulated smart traffic light in real-time.
